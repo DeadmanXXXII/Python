@@ -1,6 +1,6 @@
 # Python
 
-Here’s a comprehensive list of Python CLI commands and techniques, including specific tools and configurations for PyCharm and Python 3.
+Here’s a comprehensive list of Python CLI commands and techniques, including specific tools and configurations for PyCharm, PyEnvy and Python 3.
 
 ### **Python CLI Commands**
 
